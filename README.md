@@ -18,4 +18,4 @@ Transactions table — 6 recent orders with color-coded status pills
 Live activity feed — Real-time events with icons and timestamps
 Top categories horizontal bar chart — SaaS, Ecomm, Mobile, API, Other
 Scrolling market ticker — AAPL, NVDA, BTC, ETH and more, auto-scrolling
-Live clock in the top bar
+Live clock in the top bar.
